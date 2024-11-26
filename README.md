@@ -11,7 +11,7 @@ Tool tải video từ Facebook tự động với nhiều link cùng lúc.
 
 1. Clone repository này về máy:
 ```bash
-git clone <repository-url>
+git clone https://github.com/vtplayer/facebook-video-downloader
 cd fb-video-downloader
 ```
 
